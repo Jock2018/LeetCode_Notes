@@ -73,5 +73,3 @@ if __name__ == "__main__":
     s = "babbabbabbabbab"
     print(f"预期：True")
     print(f"实际：{solution.repeatedSubstringPattern(s)}")
-
-    "abcabc".find("abc", 1)
