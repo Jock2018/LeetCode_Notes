@@ -3,7 +3,7 @@
 
 """
 时间：2021/3/30 23:13
-LeetCode原题链接：
+LeetCode原题链接：https://leetcode-cn.com/problems/sum-of-beauty-of-all-substrings/
 """
 
 
