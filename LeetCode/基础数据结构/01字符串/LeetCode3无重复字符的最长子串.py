@@ -127,6 +127,7 @@ if __name__ == "__main__":
     solution = Solution()
     s = "abcabcbb"
     print(f"预期：3")
+    assert solution.lengthOfLongestSubstring(s) == 3
     print(f"实际：{solution.lengthOfLongestSubstring(s)}")
 
     solution = Solution()
