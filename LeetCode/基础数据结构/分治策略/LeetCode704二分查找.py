@@ -30,6 +30,6 @@ class Solution:
 
 if __name__ == "__main__":
     solution = Solution()
-    # assert solution.search([-1, 0, 3, 5, 9, 12], 9) == 4
-    # assert solution.search([-1, 0, 3, 5, 9, 12], 2) == -1
+    assert solution.search([-1, 0, 3, 5, 9, 12], 9) == 4
+    assert solution.search([-1, 0, 3, 5, 9, 12], 2) == -1
     assert solution.search([5], 5) == 0
